@@ -44,5 +44,19 @@ Create a program which asks your user to input three different `int` numbers. (W
 
 Duplicate the previous task and make the numbers `floats` and then then print the result as currency. 
 
+### 8. Demo the end parameter
+Consider the following:
+```
+print('Some text and')
+print('some other text.')
+```
 
-
+Add necessary `end` parameter(s) to make the output read as follows:
+```
+Some text and some other text.
+```
+### 9. Demo the sep parameter 
+Print out this date with hyphens using the sep parameter.
+```
+print('01,'29','2024')
+```
