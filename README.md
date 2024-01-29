@@ -38,7 +38,7 @@ Use an f-string to print a sentence that includes these two variables.
 
 ### 6. Math:
 
-Create a program which asks your user to input three different `int` numbers. (We won't worry with validating the numbers to ensure they are unique-yet) Store each `int` number as a variable. Write an expression which multiplies the first two numbers and then raises the product of those two numbers to the power of 2 (squares the number) then subtract the third number.
+Create a program which asks your user to input three different `int` numbers. (We won't worry with validating the numbers to ensure they are unique-yet) Store each `int` number as a variable. Write an expression which multiplies the first two numbers and then raises the product of those two numbers to the power of 2 (squares the number) then subtract the third number from the result of the previous operation.
 
 ### 7. Currency Formatting
 
