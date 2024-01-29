@@ -8,8 +8,8 @@ To understand fundamental concepts of string manipulation, quoting, and basic op
 
 ### 1. String Quoting:
 
-Create three strings with the print function. The first string should use single_quote, the second should use double_quote, and third should use triple_quote.
-Include a sentence in each which makes sense to use each particular type of quotations.
+Create three strings with the print function. The first string should use single_quotes, the second should use double_quotes, and third should use triple_quotes.
+Include one sentence it the first two which makes sense to use each particular type of quotation set. It the case of the triple quote, use two or three sentences.
 
 ### 2. String Escaping:
 
